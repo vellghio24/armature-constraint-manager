@@ -2,13 +2,13 @@
 Blender Add-on — Author: **3D ARTIST VELL GHIO**
 
 ## Features
-- ✅ Tab always visible, content hides when no armature selected
+- ✅ Easiest way to enable/disabled multuple rig constraint
 - ✅ Select armature in 3D Viewport → auto-highlight in list
-- ✅ Add armature manually (never auto-add)
+- ✅ Good for complex rig
 - ✅ See constraint summary grouped by type
 - ✅ Enable All / Disable All per constraint type
 - ✅ Refresh button shows newly added constraints
-- ✅ Auto-highlight works after Blender restart
+- ✅ Efficient for multiple bones with constraint
 
 ## Blender Version
 - Blender 5.0+

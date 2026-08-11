@@ -1,0 +1,20 @@
+schema_version = "blender-extension-v1"
+id = "armature-constraint-manager"
+version = "2.1.0"
+name = "Armature Constraint Manager"
+tagline = "Quickly enable/disable all constraints by type across armature bones"
+authors = ["3D ARTIST VELL GHIO"]
+description = """
+Manage armature constraints easily:
+- Select armature → auto-highlight & show constraint summary
+- Enable/Disable ALL constraints of the same type with one click
+- Auto-refresh shows newly added constraints
+- Tab stays visible; content hides when no armature selected
+- Survives Blender restarts automatically
+"""
+type = "add-on"
+maintainer = "3D ARTIST VELL GHIO"
+license = "GPL-3.0-or-later"
+blender_version_min = "5.0.0"
+category = "Rigging"
+website = ""
